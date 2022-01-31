@@ -1,0 +1,79 @@
+h2 {
+   font-size: 32px;
+   border-bottom: 1px solid black;
+   text-transform: uppercase;
+   text-align: center;
+}
+p {
+   font-size: 26px;
+   text-transform: uppercase;
+   text-align: center;
+}
+img {
+   width: 100%;
+   height: auto;
+   margin-bottom: 15px;
+}
+.animals {
+}
+.container {
+   width: 100%;
+   max-width: 1100px;
+   margin: 0 auto;
+   display: flex;
+   flex-direction: column;
+}
+.cats {
+}
+.flex {
+   width: 100%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.cats_title {
+}
+.cats__img {
+}
+.cats_title-2 {
+}
+.dogs {
+}
+.dogs__title {
+}
+.dogs__img {
+}
+.animas__gif {
+}
+.gif__title {
+}
+.gif__img {
+}
+.mems {
+}
+.vsratost {
+}
+.vsratost__img {
+}
+.cool-things {
+}
+.cars {
+}
+.cars__title {
+}
+.cars__img {
+}
+.piter {
+}
+.piter__title {
+}
+.piter__img {
+}
+.zombi {
+}
+.zombi__title {
+}
+.zombi__text {
+}
+.zombi__img {
+}
